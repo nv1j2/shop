@@ -1,0 +1,14 @@
+C:\Users\Ned\workspace-j2ee\shop-web\src\main\java\com\shop\web\pojo\BasePojo.java
+C:\Users\Ned\workspace-j2ee\shop-web\src\main\java\com\shop\web\service\ItemService.java
+C:\Users\Ned\workspace-j2ee\shop-web\src\main\java\com\shop\web\controller\ItemController.java
+C:\Users\Ned\workspace-j2ee\shop-web\src\main\java\com\shop\web\service\RabbitItemService.java
+C:\Users\Ned\workspace-j2ee\shop-web\src\main\java\com\shop\web\controller\CartController.java
+C:\Users\Ned\workspace-j2ee\shop-web\src\main\java\com\shop\web\pojo\Item.java
+C:\Users\Ned\workspace-j2ee\shop-web\src\main\java\com\shop\web\service\CartService.java
+C:\Users\Ned\workspace-j2ee\shop-web\src\main\java\com\shop\web\threadlocal\UserThreadLocal.java
+C:\Users\Ned\workspace-j2ee\shop-web\src\main\java\com\shop\web\interceptor\CartInterceptor.java
+C:\Users\Ned\workspace-j2ee\shop-web\src\main\java\com\shop\web\service\UserService.java
+C:\Users\Ned\workspace-j2ee\shop-web\src\main\java\com\shop\web\pojo\Cart.java
+C:\Users\Ned\workspace-j2ee\shop-web\src\main\java\com\shop\web\pojo\User.java
+C:\Users\Ned\workspace-j2ee\shop-web\src\main\java\com\shop\web\controller\IndexController.java
+C:\Users\Ned\workspace-j2ee\shop-web\src\main\java\com\shop\web\controller\UserController.java

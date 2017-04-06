@@ -1,0 +1,6 @@
+com\shop\manage\controller\ItemController.class
+com\shop\manage\controller\PageController.class
+com\shop\manage\controller\web\WebItemCatController.class
+com\shop\manage\controller\web\WebItemController.class
+com\shop\manage\controller\UploadFileController.class
+com\shop\manage\controller\ItemCatController.class
